@@ -1,0 +1,373 @@
+﻿dia;categoria;frequencia;valor;quantidade
+1;Mercearia;2541;14619;2862
+1;Bebidas;1553;13501;4061
+1;Frios e Laticínios;901;7524;1849
+1;Higiene;720;4634;721
+1;Limpeza;504;2945;532
+1;Hortifruti;443;2074;460
+1;Padaria;323;1882;238
+1;Carnes;313;4793;358
+1;Utilidades;143;1592;151
+1;Outros;63;866;66
+1;Pet Shop;21;255;21
+1;Congelados;20;193;14
+2;Mercearia;2836;18310;3066
+2;Bebidas;1650;13754;3739
+2;Frios e Laticínios;1287;8973;2027
+2;Higiene;837;5981;859
+2;Limpeza;579;3556;614
+2;Hortifruti;541;3038;561
+2;Padaria;430;2152;286
+2;Carnes;374;5296;465
+2;Utilidades;178;1852;175
+2;Outros;80;1107;82
+2;Pet Shop;33;343;33
+2;Congelados;24;278;16
+3;Mercearia;3374;20441;3516
+3;Bebidas;1985;13825;3882
+3;Frios e Laticínios;1239;10072;2575
+3;Higiene;901;5666;917
+3;Limpeza;691;3621;714
+3;Hortifruti;675;3040;689
+3;Carnes;523;7876;644
+3;Padaria;453;2340;297
+3;Utilidades;149;1428;157
+3;Outros;79;998;73
+3;Pet Shop;22;267;23
+3;Congelados;9;103;8
+4;Mercearia;3573;23290;3878
+4;Bebidas;2396;15821;4776
+4;Frios e Laticínios;1250;9848;2136
+4;Higiene;1094;6736;1099
+4;Limpeza;855;4927;894
+4;Hortifruti;739;3498;803
+4;Carnes;546;9279;713
+4;Padaria;505;2785;358
+4;Utilidades;212;2210;215
+4;Outros;106;1413;120
+4;Congelados;22;281;16
+4;Pet Shop;20;347;20
+5;Mercearia;3311;20807;3478
+5;Bebidas;2338;17335;5027
+5;Frios e Laticínios;1051;8808;2016
+5;Higiene;897;5536;908
+5;Limpeza;728;4063;762
+5;Hortifruti;578;2990;581
+5;Padaria;492;2701;332
+5;Carnes;446;7493;614
+5;Utilidades;185;2127;183
+5;Outros;90;1360;87
+5;Congelados;19;204;15
+5;Pet Shop;17;236;17
+6;Mercearia;4198;25417;4445
+6;Bebidas;2510;16752;5357
+6;Frios e Laticínios;1322;11111;2532
+6;Higiene;1186;7697;1206
+6;Limpeza;951;5465;966
+6;Hortifruti;670;3388;730
+6;Carnes;513;7813;681
+6;Padaria;481;2716;382
+6;Utilidades;222;2073;221
+6;Outros;90;1501;102
+6;Pet Shop;34;378;34
+6;Congelados;26;305;23
+7;Mercearia;3955;24896;4320
+7;Bebidas;2391;16646;5564
+7;Frios e Laticínios;1098;9678;2215
+7;Higiene;1033;6922;1059
+7;Limpeza;802;4720;847
+7;Hortifruti;700;3134;766
+7;Carnes;611;9403;841
+7;Padaria;489;2691;339
+7;Utilidades;200;2393;213
+7;Outros;108;1408;135
+7;Pet Shop;33;270;35
+7;Congelados;19;224;14
+8;Mercearia;4675;29538;5100
+8;Bebidas;2351;16094;4425
+8;Frios e Laticínios;1297;9882;2303
+8;Higiene;1216;7643;1241
+8;Limpeza;1010;5619;1038
+8;Hortifruti;684;3478;804
+8;Carnes;625;9505;762
+8;Padaria;532;2862;370
+8;Utilidades;257;2795;274
+8;Outros;132;2341;137
+8;Congelados;24;348;21
+8;Pet Shop;19;140;19
+9;Mercearia;3439;22322;3773
+9;Bebidas;1953;12101;3321
+9;Higiene;1306;6471;1307
+9;Frios e Laticínios;1081;9372;2305
+9;Limpeza;794;4741;836
+9;Hortifruti;657;3722;709
+9;Padaria;511;2584;335
+9;Carnes;445;6981;491
+9;Utilidades;159;1906;154
+9;Outros;93;1326;101
+9;Congelados;24;279;18
+9;Pet Shop;18;284;18
+10;Mercearia;3237;20138;3496
+10;Bebidas;1963;15032;4023
+10;Frios e Laticínios;1114;9348;2068
+10;Higiene;909;5844;913
+10;Limpeza;633;3550;651
+10;Hortifruti;597;2852;636
+10;Carnes;476;7531;566
+10;Padaria;455;2620;317
+10;Utilidades;174;1774;173
+10;Outros;74;1060;74
+10;Congelados;30;361;22
+10;Pet Shop;27;334;27
+11;Mercearia;3052;18679;3182
+11;Bebidas;1871;16006;4453
+11;Frios e Laticínios;1059;9153;2049
+11;Higiene;781;4934;782
+11;Limpeza;655;3559;662
+11;Hortifruti;636;3256;668
+11;Carnes;469;8222;566
+11;Padaria;459;2507;293
+11;Utilidades;196;2017;194
+11;Outros;74;903;82
+11;Congelados;28;314;25
+11;Pet Shop;26;194;26
+12;Mercearia;1960;11448;2031
+12;Bebidas;1724;14332;3859
+12;Frios e Laticínios;802;5484;1267
+12;Higiene;564;4066;564
+12;Hortifruti;515;2539;527
+12;Carnes;405;6519;493
+12;Padaria;377;1874;243
+12;Limpeza;327;1917;339
+12;Utilidades;114;1248;113
+12;Outros;55;646;54
+12;Pet Shop;20;213;27
+12;Congelados;16;174;11
+13;Mercearia;1903;12001;2039
+13;Bebidas;1613;14317;4124
+13;Frios e Laticínios;816;5438;1304
+13;Higiene;562;4241;573
+13;Hortifruti;446;2097;488
+13;Limpeza;437;2789;448
+13;Padaria;345;2008;256
+13;Carnes;340;5053;392
+13;Utilidades;154;1416;150
+13;Outros;77;1454;75
+13;Congelados;17;230;16
+13;Pet Shop;17;168;15
+14;Mercearia;2129;13773;2369
+14;Bebidas;1607;17955;4675
+14;Frios e Laticínios;940;6901;1720
+14;Hortifruti;567;2686;544
+14;Higiene;519;3579;526
+14;Padaria;440;2544;311
+14;Carnes;430;6912;496
+14;Limpeza;394;2535;425
+14;Utilidades;167;1729;167
+14;Outros;90;993;77
+14;Pet Shop;32;373;32
+14;Congelados;22;205;16
+15;Mercearia;2021;11768;2088
+15;Bebidas;1566;12510;3318
+15;Frios e Laticínios;905;6993;1644
+15;Hortifruti;512;2457;514
+15;Higiene;439;3346;457
+15;Carnes;389;5504;432
+15;Padaria;377;1799;254
+15;Limpeza;358;2257;362
+15;Utilidades;152;1688;156
+15;Outros;75;989;67
+15;Congelados;33;399;30
+15;Pet Shop;26;133;26
+16;Mercearia;2085;12911;2289
+16;Bebidas;1460;12621;3037
+16;Frios e Laticínios;1013;7540;1858
+16;Hortifruti;609;2696;624
+16;Padaria;537;2600;383
+16;Higiene;458;3026;489
+16;Limpeza;356;2174;372
+16;Carnes;348;5803;421
+16;Utilidades;162;1871;166
+16;Outros;61;748;60
+16;Pet Shop;21;188;21
+16;Congelados;12;130;8
+17;Mercearia;2222;13235;2323
+17;Bebidas;1560;11042;2659
+17;Frios e Laticínios;889;5661;1316
+17;Hortifruti;625;3020;674
+17;Higiene;518;3283;512
+17;Limpeza;432;2645;450
+17;Padaria;416;2396;296
+17;Carnes;404;6623;507
+17;Utilidades;176;1844;171
+17;Outros;75;968;70
+17;Pet Shop;39;390;39
+17;Congelados;15;232;13
+18;Mercearia;2112;12634;2173
+18;Bebidas;1689;13167;3239
+18;Frios e Laticínios;871;5694;1269
+18;Hortifruti;471;2337;473
+18;Higiene;451;2705;450
+18;Limpeza;381;2233;385
+18;Padaria;380;1984;251
+18;Carnes;360;5786;494
+18;Utilidades;175;1779;175
+18;Outros;72;1052;66
+18;Congelados;14;197;11
+18;Pet Shop;11;197;11
+19;Mercearia;2187;12750;2314
+19;Bebidas;1533;14558;3884
+19;Frios e Laticínios;811;6420;1422
+19;Hortifruti;476;2325;504
+19;Higiene;466;3169;469
+19;Carnes;420;6715;443
+19;Padaria;396;2260;264
+19;Limpeza;375;2529;386
+19;Utilidades;140;1332;139
+19;Outros;78;843;79
+19;Pet Shop;22;267;22
+19;Congelados;17;185;14
+20;Mercearia;2347;13423;2438
+20;Bebidas;1597;11136;3177
+20;Frios e Laticínios;1018;7479;1836
+20;Higiene;550;3456;554
+20;Hortifruti;514;2457;510
+20;Carnes;433;6656;502
+20;Padaria;424;2355;295
+20;Limpeza;415;2322;430
+20;Utilidades;163;1627;166
+20;Outros;46;816;44
+20;Pet Shop;34;362;34
+20;Congelados;27;403;24
+21;Mercearia;2401;14123;2515
+21;Bebidas;1669;15723;4147
+21;Frios e Laticínios;978;7257;1729
+21;Higiene;594;3655;588
+21;Hortifruti;557;2810;628
+21;Carnes;478;8659;652
+21;Padaria;455;2305;290
+21;Limpeza;407;2318;428
+21;Utilidades;114;1364;118
+21;Outros;71;1267;73
+21;Pet Shop;19;299;19
+21;Congelados;17;166;10
+22;Mercearia;1855;11337;1954
+22;Bebidas;1711;14532;3848
+22;Frios e Laticínios;866;5972;1298
+22;Hortifruti;510;2448;527
+22;Higiene;437;2973;440
+22;Carnes;422;6063;461
+22;Padaria;420;2278;295
+22;Limpeza;333;2041;341
+22;Utilidades;123;1262;126
+22;Pet Shop;43;279;43
+22;Outros;39;406;34
+22;Congelados;14;175;13
+23;Mercearia;2155;12734;2276
+23;Bebidas;1486;12664;2849
+23;Frios e Laticínios;929;7316;1840
+23;Hortifruti;499;2419;497
+23;Higiene;489;3096;488
+23;Padaria;393;2167;261
+23;Carnes;341;5469;377
+23;Limpeza;324;1851;336
+23;Utilidades;122;1055;119
+23;Outros;63;900;63
+23;Pet Shop;13;282;13
+23;Congelados;12;125;9
+24;Mercearia;2109;12460;2225
+24;Bebidas;1821;18112;5415
+24;Frios e Laticínios;929;7559;1874
+24;Hortifruti;563;2726;624
+24;Higiene;456;3016;451
+24;Carnes;391;6647;475
+24;Padaria;386;2093;242
+24;Limpeza;353;1984;358
+24;Utilidades;144;1495;145
+24;Outros;60;729;57
+24;Pet Shop;23;129;23
+24;Congelados;18;260;14
+25;Mercearia;1782;10549;1992
+25;Bebidas;1313;11673;3073
+25;Frios e Laticínios;841;5336;1071
+25;Hortifruti;438;2535;464
+25;Higiene;414;3086;415
+25;Carnes;327;4833;343
+25;Limpeza;311;1929;335
+25;Padaria;301;1593;220
+25;Utilidades;127;1694;137
+25;Outros;74;987;72
+25;Congelados;21;214;19
+25;Pet Shop;18;162;18
+26;Mercearia;1978;11707;2035
+26;Bebidas;1837;14985;4117
+26;Frios e Laticínios;977;6724;1473
+26;Hortifruti;500;2569;525
+26;Higiene;484;3673;497
+26;Limpeza;454;2606;459
+26;Padaria;372;2172;234
+26;Carnes;362;6199;429
+26;Utilidades;152;1995;155
+26;Outros;66;814;63
+26;Pet Shop;41;317;41
+26;Congelados;30;403;26
+27;Mercearia;1923;11259;1948
+27;Bebidas;1480;11276;3652
+27;Frios e Laticínios;884;5272;1216
+27;Hortifruti;485;2001;486
+27;Higiene;406;2713;401
+27;Padaria;348;1769;209
+27;Limpeza;346;1985;358
+27;Carnes;338;5760;430
+27;Utilidades;90;644;86
+27;Outros;63;708;57
+27;Pet Shop;22;266;22
+27;Congelados;22;173;12
+28;Mercearia;2490;15332;2930
+28;Bebidas;1766;13167;3657
+28;Frios e Laticínios;939;6891;1473
+28;Higiene;633;4570;664
+28;Hortifruti;569;2553;587
+28;Limpeza;506;2808;523
+28;Padaria;462;2528;312
+28;Carnes;413;6718;514
+28;Utilidades;160;1703;156
+28;Outros;76;1291;93
+28;Pet Shop;46;289;46
+28;Congelados;28;299;21
+29;Mercearia;2306;14367;2624
+29;Bebidas;1629;14299;3692
+29;Frios e Laticínios;905;6105;1386
+29;Higiene;641;4887;716
+29;Limpeza;520;3374;584
+29;Hortifruti;470;2372;534
+29;Carnes;380;6338;506
+29;Padaria;375;2226;255
+29;Utilidades;169;2215;181
+29;Outros;84;1445;84
+29;Congelados;36;383;34
+29;Pet Shop;21;251;21
+30;Mercearia;3042;19804;3180
+30;Bebidas;1660;13058;3710
+30;Frios e Laticínios;1126;10202;2468
+30;Higiene;870;6135;871
+30;Limpeza;657;3885;685
+30;Hortifruti;525;2662;556
+30;Carnes;492;8661;607
+30;Padaria;420;2271;302
+30;Utilidades;171;1714;167
+30;Outros;78;1254;74
+30;Pet Shop;25;340;25
+30;Congelados;19;266;18
+31;Mercearia;1689;10678;1794
+31;Bebidas;1148;11693;3292
+31;Frios e Laticínios;652;4956;1190
+31;Higiene;407;3076;423
+31;Hortifruti;334;1701;333
+31;Limpeza;285;1666;293
+31;Carnes;252;4717;320
+31;Padaria;242;1532;159
+31;Utilidades;97;1276;103
+31;Outros;58;993;57
+31;Pet Shop;20;294;20
+31;Congelados;11;155;9
